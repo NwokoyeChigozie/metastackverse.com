@@ -1,0 +1,6 @@
+
+access token:  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
+
+
+ssh 	metaptno@199.188.200.171 -p21098
+h25a9HI7717A
